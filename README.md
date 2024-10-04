@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Fahreddin TOKATLI
 
 <p align="center">
-  <img src="https://ajanfahri.com/images/fahreddintokatli.jpg" alt="Fahreddin TOKATLI" width="200" height="200" style="border-radius:50%;">
+  <img src="https://www.ajancnc.com/ai/kodoku/fahreddintokatli.jpg" alt="Fahreddin TOKATLI" width="200" height="200" style="border-radius:50%;">
 </p>
 
 <p align="center">
